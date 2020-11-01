@@ -2,7 +2,7 @@
     "$schema-version": "0.0.1",
     "description": "Azure IoT Edge Node-RED module",
     "image": {
-        "repository": "$CONTAINER_REPOSITORY/noderededgemodule",
+        "repository": "idpiregistry.azurecr.io/noderededgemodule",
         "tag": {
             "version": "1.0.2",
             "platforms": {
