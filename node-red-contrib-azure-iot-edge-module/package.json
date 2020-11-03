@@ -16,9 +16,9 @@
       "node": ">=0.10.0"
     },
     "dependencies": {
-      "azure-iot-device": "^1.17.1",
-      "azure-iot-device-mqtt": "^1.15.1",
-      "azure-iot-device-amqp": "^1.13.1"
+      "azure-iot-device": "^1.17.3",
+      "azure-iot-device-mqtt": "^1.15.3",
+      "azure-iot-device-amqp": "^1.13.3"
     },
     "keywords": [
       "node-red",
